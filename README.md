@@ -23,6 +23,7 @@ I work on data-driven projects encompassing ingestion, transformation, analytics
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" style="filter: invert(1); background-color: #f5f5f5; border-radius: 8px; padding: 5px;"> 
 <img height="45" src="https://github.com/user-attachments/assets/1035461c-e05b-4daa-9dfa-31c2887bdea9" style="filter: invert(1); background-color: #f5f5f5; border-radius: 8px; padding: 5px;">
 <img height="45" src="https://github.com/user-attachments/assets/3688f2b7-a9ea-4edc-ab5e-55734e2e10df" style="filter: invert(1); background-color: #f5f5f5; border-radius: 8px; padding: 5px;">
+<img height="45" src="https://github.com/user-attachments/assets/dee7d015-18d1-4bcd-9983-ad8a3e4e5440" style="filter: invert(1); background-color: #f5f5f5; border-radius: 8px; padding: 5px;">
 <img height="45" src="https://github.com/user-attachments/assets/95bf5972-d13a-4ef8-a77c-0e9062031833" style="filter: invert(1); background-color: #f5f5f5; border-radius: 8px; padding: 5px;">
 
 
